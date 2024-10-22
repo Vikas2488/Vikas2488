@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<img align="right" alt=("Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif](https://camo.githubusercontent.com/f65d5d3c87305160a9eb7f30b5f67c3616b5e1e5d0e9c7197792bbcb9943f7ac/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313730383831362f73637265656e73686f74732f31353633373235362f6d656469612f66393832366630616638613439343632663034383236326138353032303335622e676966")
+<img align="right" alt=("Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif](https://camo.githubusercontent.com/f65d5d3c87305160a9eb7f30b5f67c3616b5e1e5d0e9c7197792bbcb9943f7ac/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313730383831362f73637265656e73686f74732f31353633373235362f6d656469612f66393832366630616638613439343632663034383236326138353032303335622e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas2488&label=Profile%20views&color=0e75b6&style=flat" alt="vikas2488" /> </p>
 
